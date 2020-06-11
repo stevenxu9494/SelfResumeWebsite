@@ -10,7 +10,7 @@ export default () =>{
         {/* 个人简介 */}
         <section className={ styles.brief }>
             <img src={ require("../../assets/images/avatar.jpg") } />
-            <h2>Thijs Koerselman</h2>
+            <h2>Chi(Steven) Xu</h2>
             <ul>
                 <li>software engineer</li>
                 <li>full-stack developer</li>

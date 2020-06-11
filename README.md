@@ -15,6 +15,3 @@ npm run build
 把build文件夹上传到服务器部署即可。
 
 或者使用`github pages`、`netlify`、`gitlab pages`免服务器免费部署。
-
-## 视频课程  
-如果想学习react，这里有一个完整的[视频课程](http://i.xue.taobao.com/detail.htm?spm=a2174.7365761.39b9.14.NpFkHf&courseId=105412)。

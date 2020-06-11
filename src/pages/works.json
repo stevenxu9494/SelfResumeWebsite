@@ -7,15 +7,8 @@
             "title":"Sports Store",
             "brief":"An online product catalog.",
             "tags":[ "c#","asp.net","azure cloud platform","mvc framework","sql server", "tdd", "razor" ],
-            "cover":"./assets/images/cover1.jpg",
+            "cover":"https://raw.githubusercontent.com/stevenxu9494/self-resume-website-master/master/src/assets/images/cover1.jpg",
             "id":1
-        },
-        {
-            "title":"O'Chi 2020",
-            "brief":"About myself, and what makes me unique.",
-            "tags":[ "acs","portfolio","resume","experience" ],
-            "cover":"https://zhtutorial.oss-cn-hangzhou.aliyuncs.com/react/website/cover2.jpg",
-            "id":2
         }
     ]
 }

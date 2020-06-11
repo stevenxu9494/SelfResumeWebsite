@@ -2,7 +2,7 @@
 import React, { Component } from 'react';
 import styles from './detail.module.scss';
 
-export default () =>{
+export default ({ dataSource }) =>{
     return <div className={ styles.wrap }>
         <div className={ styles.box }>
             <div className={ styles.title }>

@@ -10,7 +10,7 @@
     "react-scripts": "^3.4.1"
   },
   "engines": {
-    "node": "10.0"
+    "node": "12.13"
   },
   "scripts": {
     "start": "react-scripts start",

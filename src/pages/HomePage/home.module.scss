@@ -33,7 +33,7 @@
 
     .work{
         text-align: center;
-        padding-top: 40px;
+        padding-top: 20px;
         padding-bottom: 25px;
         .title{
           h3{
@@ -46,5 +46,15 @@
             color: rgba(0, 0, 0, 0.7);
           }
         }
+    }
+
+    .icon{
+      text-align: center;
+      padding-top: 25px;
+      img{
+        width: 30px;
+        height: 30px;
+        padding-left: 20px;
+      }
     }
 }

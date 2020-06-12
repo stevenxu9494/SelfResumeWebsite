@@ -1,4 +1,5 @@
 {
+  "start": "node ./www",
   "name": "mysite",
   "version": "0.1.0",
   "private": true,

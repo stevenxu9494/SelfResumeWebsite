@@ -1,3 +1,9 @@
 {
-  "git.ignoreLimitWarning": true
+  "git.ignoreLimitWarning": true,
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/51125028-1404-4a93-a3de-8e0b45415d87/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/chistevenxuresume",
+  "appService.deploySubpath": "build"
 }

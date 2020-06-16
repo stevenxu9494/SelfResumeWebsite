@@ -9,13 +9,6 @@
             "tags":[ "c#","asp.net","azure cloud platform","mvc framework","sql server", "tdd", "razor" ],
             "cover":"https://raw.githubusercontent.com/stevenxu9494/self-resume-website-master/master/src/assets/images/cover1.jpg",
             "id":1
-        },
-        {
-            "title":"Sports Store",
-            "brief":"An online product catalog.",
-            "tags":[ "c#","asp.net","azure cloud platform","mvc framework","sql server", "tdd", "razor" ],
-            "cover":"https://raw.githubusercontent.com/stevenxu9494/self-resume-website-master/master/src/assets/images/cover2.jpg",
-            "id":2
         }
     ]
 }

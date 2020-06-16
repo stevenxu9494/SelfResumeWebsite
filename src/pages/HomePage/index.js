@@ -23,15 +23,30 @@ export default () =>{
 
         {/*社交链接*/}
         <section className={ styles.icon }>
-            <a href = "https://github.com/stevenxu9494" target = "_blank">
-                <img src={ require("../../assets/images/github_icon.png")} />
-            </a>
-            <a href = "http://eportfolio.acseducation.edu.au/view/view.php?t=KI46TeyazPZ3Xv8ucfko" target = "_blank">
-                <img src={ require("../../assets/images/acs_icon.png")} />
-            </a>
-            <a href = "https://www.linkedin.com/in/chi-steven-xu" target = "_blank">
-                <img src={ require("../../assets/images/linkedin_icon.png")} />
-            </a>
+            <div>
+                <figure>
+                    <a href = "https://www.linkedin.com/in/chi-steven-xu" target = "_blank">
+                        <img src={ require("../../assets/images/linkedin_icon.png")} />
+                    </a>
+                </figure>
+                <span>LinkedIn</span>  
+            </div>
+            <div>
+                <figure>
+                    <a href = "https://github.com/stevenxu9494" target = "_blank">
+                    <img src={ require("../../assets/images/github_icon.png")} />
+                    </a>
+                </figure>
+                <span>Github</span>  
+            </div>
+            <div>
+                <figure>
+                    <a href = "http://eportfolio.acseducation.edu.au/view/view.php?t=KI46TeyazPZ3Xv8ucfko" target = "_blank">
+                    <img src={ require("../../assets/images/acs_icon.png")} />                  
+                    </a>
+                </figure>
+                <span>ACS</span>  
+            </div>
         </section>
 
         {/* 作品列表 */}

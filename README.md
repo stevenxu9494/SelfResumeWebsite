@@ -17,13 +17,16 @@ npm run build
 ```
 firebase init
 ```
+```
 firebase deploy --only hosting
 ```
 ## 如果未出现更改删除文件后重新init
 ```
 .firebaserc
 ```
+```
 firebase.json
+```
 ```
 .firebase
 ```

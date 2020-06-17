@@ -9,6 +9,6 @@ build:
   - npm install
   - npm run build
  artifacts:
-  path:
+  paths:
    - build/
  

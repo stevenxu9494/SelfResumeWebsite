@@ -16,9 +16,14 @@ npm run build
 ## 服务器为firebase或者使用`github pages`、`netlify`、`gitlab pages`免服务器免费部署。
 ```
 firebase init
+```
 firebase deploy --only hosting
 ```
 ## 如果未出现更改删除文件后重新init
+```
 .firebaserc
+```
 firebase.json
+```
 .firebase
+```

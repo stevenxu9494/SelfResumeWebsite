@@ -12,8 +12,13 @@ npm start
 ```
 npm run build
 ```
-打包后根目录下会出现一个`build`文件夹，这里面的代码就是你最终要部署的代码了。
-
-把build文件夹上传到服务器部署即可。
-
-或者使用`github pages`、`netlify`、`gitlab pages`免服务器免费部署。
+## 把build文件夹上传到服务器
+## 服务器为firebase或者使用`github pages`、`netlify`、`gitlab pages`免服务器免费部署。
+```
+firebase init
+firebase deploy --only hosting
+```
+## 如果未出现更改删除文件后重新init
+.firebaserc
+firebase.json
+.firebase
